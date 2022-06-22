@@ -1,0 +1,66 @@
+.header {
+    min-height: 100px;
+    background-color: antiquewhite;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.box {
+    min-height: 100px;
+    width: 25%;
+    float: left;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.gold {
+    background-color: gold;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.footer {
+    min-height: 100px;
+    background-color: antiquewhite;
+}
+
+body {
+    background-color: lightblue;
+}
+
+p {
+    border: 5px solid purple;
+}
+
+.p1 {
+    margin: 0 0 50px 0;
+}
+
+.p2 {
+    margin: 20px 0 0 0;
+}
+
+.c {
+    background-color: blanchedalmond;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    width: 300px;
+    outline: purple solid 10px;
+    text-align: center;
+    text-decoration-line: overline underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px;
+    font-size: 30px;
+    position: static;
+}
